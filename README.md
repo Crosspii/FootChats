@@ -3,9 +3,9 @@
 ### Video Demo: https://youtu.be/m1wHbyA_GgA
 ![Untitled-Thumbnail](https://github.com/Crosspii/FootChats/assets/141479352/f2f0cf30-0f26-4504-9b21-72fa90eecbd7)
 
-#### Description:
+#### Distinctiveness and Complexity:
 
-Introducing FootChats, the ultimate destination for passionate Premier League fans! With 20 dedicated chatrooms, one for each club in the league, FootChats brings supporters together to discuss matches, share insights, and engage in lively conversations about all the exciting events on and off the pitch. Connect with like-minded fans, celebrate victories, and debate the game's hottest topics. Join us at FootChats and be part of the Premier League fan community like never before!
+Introducing FootChats, the ultimate destination for passionate Premier League fans! With 20 dedicated chatrooms, one for each club in the league, FootChats brings supporters together to discuss matches, share insights, and engage in lively conversations about all the exciting events on and off the pitch. Connect with like-minded fans, celebrate victories, and debate the game's hottest topics. Join us at FootChats and be part of the Premier League fan community like never before. Join Foot Chats today and be part of the Premier League's most vibrant online community. Share your love for the game, connect with fellow fans, and celebrate the highs and lows of each season together. Whether your team is soaring or struggling, Foot Chats is your go-to platform for all things Premier League!
 
 
 
@@ -15,10 +15,6 @@ Introducing FootChats, the ultimate destination for passionate Premier League fa
 💬 20 Dedicated Chat Rooms: Engage in lively discussions and debates with fans who share your passion for your club.
 
 🗣️ Friendly Banter: Enjoy friendly banter and conversations while respecting the diverse opinions within the football community.
-
-
-
-#### Join Foot Chats today and be part of the Premier League's most vibrant online community. Share your love for the game, connect with fellow fans, and celebrate the highs and lows of each season together. Whether your team is soaring or struggling, Foot Chats is your go-to platform for all things Premier League!"
 
 
 
