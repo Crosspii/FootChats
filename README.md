@@ -15,3 +15,11 @@ Introducing FootChats, the ultimate destination for passionate Premier League fa
 💬 20 Dedicated Chat Rooms: Engage in lively discussions and debates with fans who share your passion for your club.
 
 🗣️ Friendly Banter: Enjoy friendly banter and conversations while respecting the diverse opinions within the football community.
+
+
+---
+
+## How to run the application:
+1. Ensure that you have all of the necessary Python packages
+2. Navigate to the location of app.py
+3. Run "python app.py flask run" in the terminal
