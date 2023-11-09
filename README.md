@@ -17,6 +17,19 @@ Introducing FootChats, the ultimate destination for passionate Premier League fa
 🗣️ Friendly Banter: Enjoy friendly banter and conversations while respecting the diverse opinions within the football community.
 
 
+
+#### Join Foot Chats today and be part of the Premier League's most vibrant online community. Share your love for the game, connect with fellow fans, and celebrate the highs and lows of each season together. Whether your team is soaring or struggling, Foot Chats is your go-to platform for all things Premier League!"
+
+
+
+## What's in each file:
+* app.py contains all of the project's main functions
+* utility.py contains some of the project's extra functions
+* project.db is the database that registers all of the various accounts and messages
+* templates/ contains all of the project's pages like the login, register, chat
+* static/ contains the app's javasript, css files, and all the pngs for the clubs
+
+
 ---
 
 ## How to run the application:
